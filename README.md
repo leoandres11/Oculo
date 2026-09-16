@@ -1,4 +1,4 @@
-# Oculo 👁️
+# Oculo 
 
 ### AI-Powered Screen Analysis Assistant
 
@@ -204,7 +204,7 @@ Oculo was created with a simple vision:
 
 <div align="center">
 
-# 👁️ Oculo
+# Oculo
 
 ### **See. Understand. Assist.**
 
