@@ -86,6 +86,35 @@ Use the resulting information to understand or work with what's on your screen.
 
 ---
 
+## ⚡ Lightweight
+
+Oculo is designed to be **extremely lightweight**, with the APK size kept **under 7 MB**.
+
+Despite its small size, Oculo provides a complete screen-analysis experience without unnecessary bloat.
+
+* 📦 **APK size: Under 7 MB**
+* ⚡ Fast and lightweight
+* 💾 Minimal storage footprint
+* 🚀 Designed for an efficient experience
+
+---
+
+## 🔑 Use Your Own API Key
+
+Oculo supports **your own AI API key**, giving you control over the AI service used by the app.
+
+Simply add your API key to activate AI-powered features and start using Oculo.
+
+### Why use your own key?
+
+* 🔐 You control your API key
+* 💳 Use your own API account and billing
+* ⚙️ Configure AI access yourself
+* 🚀 Activate AI features when you are ready
+
+> **Your AI. Your API key. Your control.**
+
+
 ## 🎨 Modern Interface
 
 Oculo is designed with a clean, modern interface that keeps the focus on the AI experience.
