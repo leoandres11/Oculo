@@ -10,6 +10,19 @@ The idea behind Oculo is simple: instead of explaining what's on your screen man
 
 ---
 
+
+## 🤖 Built with AI
+
+Oculo is built with the help of **AI throughout the development process**.
+
+From designing the interface and developing features to debugging, refining interactions, and improving the overall experience, AI played an important role in bringing Oculo to life.
+
+The project explores how **AI can help build AI-powered software** — combining human ideas and direction with AI-assisted development.
+
+> **Built by a human. Developed with AI. Powered by AI. 👁️🤖**
+
+---
+
 ## ✨ Features
 
 ### 👁️ Select Any Area
